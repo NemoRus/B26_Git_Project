@@ -1,7 +1,12 @@
 package day_0;
 
 public class FirstClass {
+    public static void main(String[] args) {
 
-    // TODO: Works on this tomorrow
-    // add some cool code
+
+        System.out.println("java");
+        System.out.println("working");
+    }
+
+
 }
