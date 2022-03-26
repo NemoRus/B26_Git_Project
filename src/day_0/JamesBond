@@ -1,0 +1,5 @@
+package day 0;
+publick class JamesBond{
+publick static void main(String [] args){
+
+System.out.println("James Bond hacked the project");
